@@ -1,0 +1,11 @@
+{
+  "name": "Nephrite application",
+  "description": "Nephrite: A Confidential Stablecoin",
+  "url": "localapp/app/index.html",
+  "icon": "localapp/icon-nephrite-dapp-store.svg",
+  "version": "1.0.4",
+  "api_version": "7.0",
+  "min_api_version": "6.0",
+  "guid": "0af2ca0b2f13409c90759359c671facc",
+  "category": 2
+}
